@@ -1,14 +1,38 @@
 Este é um caderno temático sobre o Git e o Github feito no NotebookLM. Eu criei este caderno para aprender comandos mais profundos do Git e serviços e funções do Github que fogem do básico ensinado em cursos, estes serviços sendo o Github pages, Github actions e etc.
 
-Utilize este link para ir à este notebook: 
+
+
+Utilize este link para ir à este notebook:
+
 https://notebooklm.google.com/notebook/784f389e-38a6-423f-a6de-a46c94a5c902
 
+
+
 Aqui estão os links de algumas da fontes que utilizei para criar este notebook:
-https://gravitydevops.com/best-cicd-tools-2026-compared/
+
+https://gravitydevops.com/best-cicdtools-2026-compared/
 https://dev.to/zacharylee/ditch-git-checkout-use-git-switch-and-git-restore-instead-51e6
 https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/
 https://thedigitalprojectmanager.com/tools/github-projects-review/
 https://recallify.ai/boost-memory-with-active-recall-and-spaced-repetition/
+
+
+
+Principais Prompts e as "Cicatrizes": 
+
+Para tornar a IA em um tutor com uma boa metodologia, utilizei o prompt:
+"Aja de forma como se fosse um professor alegre, mas detalhista, focando não somente no compartilhamento da informação, mas fazendo o aluno à aprender tudo de forma verdadeira!". O agente acatou o meu pedido, começando a agir de acordo com o pedido e imediatamente passou m guia de estudos sobre os assuntos.
+
+Depois, para explicar o meu objetivo e direcionar a pesquisa da IA para um leque amplo utilizei este prompt: 
+
+"Eu sou um dev em processo de aprendizado. Eu já aprendi python, html, git básico e ainda este mês desejo aprender css e javascript, mas mesmo que pareça que eu queira seguir uma carreira front-end a verdade é que não, eu estou aprendendo essas tecnologias front-end, pois creio que venham a ser necessárias, é um requisito para várias vagas de estágio e principalmente, vai ajudar em minha trajetória full-stack. Todavia, a verdade mesmo é que estou um pouco indeciso ainda no qual carreira devo seguir, mas possuo na mente full-stack, back-end e engenheiro de dados. Tendo conhecimento de minhas habilidades e desejos eu quero que você trace um caminho dos conhecimentos que eu devo aprender no Github e Git, os quais sejam compatíveis com os meus desejos profissionais.". De acordo com o prompt, a IA passou um plano de estudos sobre Git e Github baseado em meus objetivos de carreira, conhecimentos atuais e futuros.
+
+Eu não encontrei muitas dificuldades para extrair a melhor resposta da IA.
+
+Existem outros prompts anteriores, mas estes são os principais. 
+
+
+
 
 Agora eu irei enviar este repositório contendo o link do notebook para a Dio.
 As regras são as seguintes: 
